@@ -1,0 +1,111 @@
+.alat-logo{
+    /* display: inline; */
+    width:55px;
+}
+.container h2{
+    margin-right: 150px;
+}
+
+.cbn-logo{
+    width:25px;
+    margin-right: 70px;
+}
+.header-cbn{
+    display: inline;
+}
+.header-alat{
+    margin-right: 100px;
+    color:#ab2656
+}
+.header{
+    margin-top: 50px;
+}
+.alat-bg{
+    display: inline-block;
+    /* background-color: #ab2656; */
+    align-items: left;
+    width: 150px;
+    box-sizing: border-box;
+}
+body{
+    background-image:url("alat.png");
+    background-repeat: no-repeat;
+}
+.input-group{
+    margin-bottom: 15px;
+}
+label{
+    display: block;
+    margin-bottom: 5px;
+    margin-right: 145px;
+    color: #ab2656;
+}
+input {
+  border-color: #ab2656;
+  outline: none;
+  height: 30px;
+  width: 300px;
+}
+.guide {
+    display: block;
+    font-size: 12px;
+    margin-right: 130px;
+    color:#ab2656
+    
+    
+}
+.forgot a{
+    /* margin-left: 1050px; */
+    text-decoration: none;
+    color:#ab2656
+    
+}
+.pass-guide{
+    display: block;
+    font-size: 12px;
+    margin-right: 160px;
+    color:#ab2656
+}
+.login{
+    background-color: #ab2656;
+    color: white;
+    height: 30px;
+    width:300px ;
+    border: none;
+}
+.container{
+    margin-top: 0px;
+    text-align: right;
+    justify-content: flex-start;
+}
+.footer{
+    margin-left: 1040px;
+}
+.foot{
+    font-weight: bold;
+    color: #ab2656;
+}
+.wrapper {
+    text-align:left ;
+    color:white;
+    margin-left: 270px;
+    font-family: sans-serif; 
+}
+.footer1{
+    font-weight: bold;
+    font-size: 15px;
+}
+.fa{
+    margin-right: 20px;
+    margin-left: 10px;
+    color: white;
+}
+.social-icon{
+    font-size: 25px;
+    color:white;
+}.social-icons{
+     margin-left: 260px;
+}
+.footer3{
+    margin-right: 20px;
+}
